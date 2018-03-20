@@ -6,7 +6,7 @@ Mostly reused code from https://github.com/martin-gorner/tensorflow-rnn-shakespe
 
 *Training data downloaded from gutenberg.org*
 
-# Description and how to use:
+### Description and how to use:
 
 For training the model I used a VM on Google's ML platform. After launching an instance, download and install tensorflow and run:
 
