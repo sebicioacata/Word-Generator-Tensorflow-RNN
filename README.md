@@ -48,7 +48,7 @@ Cand in ochii-i le privire si pe pamant.
 	* * *
 ```
 
-There's a pretty small amount of training data so it does produce the occasionl error in indentation and sometimes syntax:
+There's a pretty small amount of training data so it does have occasional shortcomings (failed indentation and/or syntax):
 
 ```
 In care stancile de femeie
